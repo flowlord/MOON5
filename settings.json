@@ -1,0 +1,7 @@
+{
+    "word_lst_pth": "word_lst.txt",
+    "key_lst_pth": "m_keys/cce.txt",
+    "OUTPUT_DIR": "m_keys/",
+    "MIN_LENGTH": 3,
+    "MAX_LENGTH": 20
+}
